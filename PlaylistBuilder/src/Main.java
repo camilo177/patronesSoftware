@@ -21,7 +21,7 @@ interface PlaylistBuilder {
     void buildArtist();
     Song getSong();
 }
-//Implementation
+//Implementation Pop
 class PopPlaylistBuilder implements PlaylistBuilder {
     private Song song = new Song();
 
@@ -33,6 +33,25 @@ class PopPlaylistBuilder implements PlaylistBuilder {
     @Override
     public void buildArtist() {
         song.setArtist("Frank Sinatra");
+    }
+
+    @Override
+    public Song getSong() {
+        return song;
+    }
+}
+//Implementation Rock
+class ReguePlaylistBuilder implements PlaylistBuilder {
+    private Song song = new Song();
+
+    @Override
+    public void buildTitle() {
+        song.setTitle("LALALA");
+    }
+
+    @Override
+    public void buildArtist() {
+        song.setArtist("Myke Towers");
     }
 
     @Override
@@ -59,12 +78,15 @@ class PlaylistDirector {
 public class Main {
     public static void main(String[] args) {
         PlaylistBuilder popPlaylistBuilder = new PopPlaylistBuilder();
-        PlaylistDirector director = new PlaylistDirector(popPlaylistBuilder);
+        PlaylistDirector popDirector = new PlaylistDirector(popPlaylistBuilder);
+        popDirector.buildSong();
+        Song popSong = popPlaylistBuilder.getSong();
+        popSong.showSong();
 
-        director.buildSong();
-
-        Song song = popPlaylistBuilder.getSong();
-        song.showSong();
+        PlaylistBuilder reguePlaylistBuilder = new ReguePlaylistBuilder();
+        PlaylistDirector regueDirector = new PlaylistDirector(reguePlaylistBuilder);
+        regueDirector.buildSong();
+        Song regueSong = reguePlaylistBuilder.getSong();
+        regueSong.showSong();
     }
 }
-
