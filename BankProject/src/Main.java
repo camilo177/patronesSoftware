@@ -6,7 +6,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<BankAccountDTO> accounts = new ArrayList<>();
-        int accountNumber = 1001;
+        int accountNumber = 1001; // Iniciar numero de cuenta
+
+        BankAccountConverter converter = new BankAccountConverter(); // Crear instancia de converter
 
         while (true) {
             System.out.println("\nMenú:");
@@ -21,7 +23,7 @@ public class Main {
             scanner.nextLine();
 
             switch (choice) {
-                case 1: {
+                case 1 : {
                     System.out.print("Ingrese el nombre del titular de la cuenta: ");
                     String accountHolderName = scanner.nextLine();
 
@@ -35,7 +37,7 @@ public class Main {
                     String clientEmail = scanner.nextLine();
 
                     Client client = new Client(clientName, clientAddress, clientEmail);
-                    BankAccountDTO accountDTO = new BankAccountDTO(accountNumber++, accountHolderName, clientName, clientAddress, clientEmail, 0.0);
+                    BankAccountDTO accountDTO = converter.convert(new BankAccount(accountNumber++, accountHolderName), client); // Usar converter
                     accounts.add(accountDTO);
                     System.out.println("Cuenta creada con éxito. Número de cuenta: " + accountDTO.getAccountNumber());
                 }
