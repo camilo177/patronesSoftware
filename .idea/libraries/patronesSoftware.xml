@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="patronesSoftware">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Proxy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AbstractParcial.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PlaylistBuilder.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BankProject.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Faculties.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

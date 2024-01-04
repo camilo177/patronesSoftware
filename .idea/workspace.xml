@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6f63ed7-bb28-4d75-a654-d1dd1cc6ca93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ejercicio_2_Interfaces/src/bibliotecaPkg/Editorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio_2_Interfaces/src/bibliotecaPkg/IPrestable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio_2_Interfaces/src/bibliotecaPkg/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio_2_Interfaces/src/bibliotecaPkg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio_2_Interfaces/src/bibliotecaPkg/Revista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/onDemand/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/onDemand/RealVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/onDemand/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/src/onDemand/VideoProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryClass/AbstractFactoryClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryTry/AbstractFactoryTry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractParcial/AbstractParcial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter/Adapter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank/Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/Builder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/Decorator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethodCurrencies/FactoryMethodCurrencies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethodTry/FactoryMethodTry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculties/Faculties.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlaylistBuilder/PlaylistBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prototype/Prototype.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantPrototypePractice/RestaurantPrototypePractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonTry/SingletonTry.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Xjq4BbE6Eg87KEZowxU8HFr8aM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/camil/IdeaProjects/patronesSoftware"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f63ed7-bb28-4d75-a654-d1dd1cc6ca93" name="Changes" comment="" />
+      <created>1699152642683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699152642683</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryClass/AbstractFactoryClass.iml" filepath="$PROJECT_DIR$/AbstractFactoryClass/AbstractFactoryClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryTry/AbstractFactoryTry.iml" filepath="$PROJECT_DIR$/AbstractFactoryTry/AbstractFactoryTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractParcial/AbstractParcial.iml" filepath="$PROJECT_DIR$/AbstractParcial/AbstractParcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankProject/BankProject.iml" filepath="$PROJECT_DIR$/BankProject/BankProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_2_Interfaces/Ejercicio_2_Interfaces.iml" filepath="$PROJECT_DIR$/Ejercicio_2_Interfaces/Ejercicio_2_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodCurrencies/FactoryMethodCurrencies.iml" filepath="$PROJECT_DIR$/FactoryMethodCurrencies/FactoryMethodCurrencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodTry/FactoryMethodTry.iml" filepath="$PROJECT_DIR$/FactoryMethodTry/FactoryMethodTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Faculties/Faculties.iml" filepath="$PROJECT_DIR$/Faculties/Faculties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaylistBuilder/PlaylistBuilder.iml" filepath="$PROJECT_DIR$/PlaylistBuilder/PlaylistBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantPrototypePractice/RestaurantPrototypePractice.iml" filepath="$PROJECT_DIR$/RestaurantPrototypePractice/RestaurantPrototypePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonTry/SingletonTry.iml" filepath="$PROJECT_DIR$/SingletonTry/SingletonTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patronesSoftware.iml" filepath="$PROJECT_DIR$/.idea/patronesSoftware.iml" />
+    </modules>
+  </component>
+</project>
